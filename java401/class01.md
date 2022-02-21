@@ -7,7 +7,7 @@ In this class i will put many things that I learned :
 4. Control Flow Statements
 
 ## Variables
----
+
 In gereal java define the following kinds of variables : 
 - instance Variables (Non-Static Fields)
 - Class Variables (Static Fields) 
@@ -98,7 +98,7 @@ Stores true or false :
 
 
 ## Operators
----
+
 The oper
 | Operators | Precedence |
 | --- | ----------- |
@@ -118,7 +118,7 @@ The oper
 | assignment | = += -= *= /= %= &= ^= |= <<= >>= >>>=|
 
 ## Expressions, Statements, and Blocks
----
+
 ### Expressions
 We use experssions before like in example :
 
@@ -155,8 +155,10 @@ Block is group of statments between braces `{}` :
         } // end block 
     }
     // Out : true
+
+
 ## Control Flow Statements
----
+
 The  execution flow do the statment from top to bottom in your code but controle flow statment can change things some of this control flow statment : 
 - decision making  (if-then, if-then-else, switch)
 - looping statements (for, while, do-while)
