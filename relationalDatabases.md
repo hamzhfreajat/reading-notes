@@ -37,16 +37,17 @@ There are many usful keyward that you can use in SQL
 
 Some practice
 
-![Tux, Restuarant WireFrame](/assets/images/RestuarantWireFrame.png)
+
   ![Tux,Lesson 1](/assets/relational-database/lesson1.JPG)
-  ![Tux,Lesson 2](/assets/relational-database/lesson2.jpg)
-  ![Tux,Lesson 3](/assets/relational-database/lesson3.jpg)
-  ![Tux,Lesson 4](/assets/relational-database/lesson4.jpg)
-  ![Tux,Lesson 5](/assets/relational-database/lesson5.jpg)
-  ![Tux,Lesson 6](/assets/relational-database/lesson6.jpg)
-  ![Tux,Lesson 13](/assets/relational-database/lesson13.jpg)
-  ![Tux,Lesson 14](/assets/relational-database/lesson14.jpg)
-  ![Tux,Lesson 15](/assets/relational-database/lesson15.jpg)
-  ![Tux,Lesson 16](/assets/relational-database/lesson16.jpg)
-  ![Tux,Lesson 17](/assets/relational-database/lesson17.jpg)
-  ![Tux,Lesson 18](/assets/relational-database/lesson18.jpg)
+  ![Tux,Lesson 2](/assets/relational-database/lesson2.JPG)
+  ![Tux,Lesson 3](/assets/relational-database/lesson3.JPG)
+  ![Tux,Lesson 4](/assets/relational-database/lesson4.JPG)
+  ![Tux,Lesson 5](/assets/relational-database/lesson5.JPG)
+  ![Tux,Lesson 6](/assets/relational-database/lesson6.JPG)
+  ![Tux,Lesson 13](/assets/relational-database/lesson13.JPG)
+  ![Tux,Lesson 14](/assets/relational-database/lesson14.JPG)
+  ![Tux,Lesson 15](/assets/relational-database/lesson15.JPG)
+  ![Tux,Lesson 16](/assets/relational-database/lesson16.JPG)
+  ![Tux,Lesson 17](/assets/relational-database/lesson17.JPG)
+  ![Tux,Lesson 18](/assets/relational-database/lesson18.JPG)
+
