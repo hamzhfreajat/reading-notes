@@ -41,7 +41,7 @@ Some practice
   ![Tux,Lesson 2](/assets/relational-database/lesson2.jpg)
   ![Tux,Lesson 3](/assets/relational-database/lesson3.jpg)
   ![Tux,Lesson 4](/assets/relational-database/lesson4.jpg)
-  ![Tux,Lesson 5](./assets/relational-database/lesson5.jpg)
+  ![Tux,Lesson 5](/assets/relational-database/lesson5.jpg)
   ![Tux,Lesson 6](/assets/relational-database/lesson6.jpg)
   ![Tux,Lesson 13](/assets/relational-database/lesson13.jpg)
   ![Tux,Lesson 14](/assets/relational-database/lesson14.jpg)
