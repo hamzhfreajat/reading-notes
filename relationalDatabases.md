@@ -37,7 +37,6 @@ There are many usful keyward that you can use in SQL
 
 Some practice
 
-![Tux, Restuarant WireFrame](/assets/images/RestuarantWireFrame.png)
   ![Tux,Lesson 1](/assets/relational-database/lesson1.jpg)
   ![Tux,Lesson 2](/assets/relational-database/lesson2.jpg)
   ![Tux,Lesson 3](/assets/relational-database/lesson3.jpg)
@@ -50,3 +49,4 @@ Some practice
   ![Tux,Lesson 16](/assets/relational-database/lesson16.jpg)
   ![Tux,Lesson 17](/assets/relational-database/lesson17.jpg)
   ![Tux,Lesson 18](/assets/relational-database/lesson18.jpg)
+
