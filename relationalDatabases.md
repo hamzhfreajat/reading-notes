@@ -38,11 +38,11 @@ There are many usful keyward that you can use in SQL
 Some practice
 
 ![Tux, Restuarant WireFrame](/assets/images/RestuarantWireFrame.png)
-  ![Tux,Lesson 1](/assets/relational-database/lesson1.jpg)
+  ![Tux,Lesson 1](/assets/relational-database/lesson1.JPG)
   ![Tux,Lesson 2](/assets/relational-database/lesson2.jpg)
   ![Tux,Lesson 3](/assets/relational-database/lesson3.jpg)
   ![Tux,Lesson 4](/assets/relational-database/lesson4.jpg)
-  ![Tux,Lesson 5](./assets/relational-database/lesson5.jpg)
+  ![Tux,Lesson 5](/assets/relational-database/lesson5.jpg)
   ![Tux,Lesson 6](/assets/relational-database/lesson6.jpg)
   ![Tux,Lesson 13](/assets/relational-database/lesson13.jpg)
   ![Tux,Lesson 14](/assets/relational-database/lesson14.jpg)
