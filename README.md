@@ -8,4 +8,7 @@ I will put my journey to learn java step by step in this repository .
 
 | Class       |     Title   |     link                              |
 | :---        |    :----:   |          ---:                         |
-| class01     | java basics | [link](https://hamzhfreajat.github.io/reading-notes/java401/class01)        |
+| class01     | java basics | [link](https://hamzhfreajat.github.io/reading-notes/java401/class01)|
+
+
+
