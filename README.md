@@ -9,6 +9,7 @@ I will put my journey to learn java step by step in this repository .
 | Class       |     Title   |     link                              |
 | :---        |    :----:   |          ---:                         |
 | class01     | java basics | [link](https://hamzhfreajat.github.io/reading-notes/java401/class01)|
+| class01     | OOP | [link](https://hamzhfreajat.github.io/reading-notes/java401/class04)|
 | class05     | Linked Lists | [link](https://hamzhfreajat.github.io/reading-notes/java401/class05)|
 | class06     | Inheritance and Interfaces | [link](https://hamzhfreajat.github.io/reading-notes/java401/class06)|
 
