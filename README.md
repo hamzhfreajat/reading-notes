@@ -6,12 +6,13 @@ I will put my journey to learn java step by step in this repository .
 ## Code 401 - Advanced Software Development
 
 
-| Class       |     Title   |     link                              |
-| :---        |    :----:   |          ---:                         |
-| class01     | java basics | [link](https://hamzhfreajat.github.io/reading-notes/java401/class01)|
-| class04     | OOP | [link](https://hamzhfreajat.github.io/reading-notes/java401/class04)|
-| class05     | Linked Lists | [link](https://hamzhfreajat.github.io/reading-notes/java401/class05)|
-| class06     | Inheritance and Interfaces | [link](https://hamzhfreajat.github.io/reading-notes/java401/class06)|
+| Class   |           Title            |                                                                 link |
+|:--------|:--------------------------:|---------------------------------------------------------------------:|
+| class01 |        java basics         | [link](https://hamzhfreajat.github.io/reading-notes/java401/class01) |
+| class04 |            OOP             | [link](https://hamzhfreajat.github.io/reading-notes/java401/class04) |
+| class05 |        Linked Lists        | [link](https://hamzhfreajat.github.io/reading-notes/java401/class05) |
+| class06 | Inheritance and Interfaces | [link](https://hamzhfreajat.github.io/reading-notes/java401/class06) |
+| class08 |         OOP Design         | [link](https://hamzhfreajat.github.io/reading-notes/java401/class08) |
 
 
 
