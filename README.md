@@ -13,6 +13,7 @@ I will put my journey to learn java step by step in this repository .
 | class05 |        Linked Lists        | [link](https://hamzhfreajat.github.io/reading-notes/java401/class05) |
 | class06 | Inheritance and Interfaces | [link](https://hamzhfreajat.github.io/reading-notes/java401/class06) |
 | class08 |         OOP Design         | [link](https://hamzhfreajat.github.io/reading-notes/java401/class08) |
+| class09 |       WRRC and Java        | [link](https://hamzhfreajat.github.io/reading-notes/java401/class09) |
 
 
 
