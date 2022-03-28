@@ -12,4 +12,5 @@ An `AuthenticationManager` can do one of 3 things in its authenticate() method:
 
 ## Web Security
 Spring Security in the web tier (for UIs and HTTP back ends) is based on Servlet Filters to become more secure
-![Filter](../assets/class16/filter.png)
+
+![Filter](../assets/class16/filters.png)
