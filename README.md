@@ -25,6 +25,7 @@ I will put my journey to learn java step by step in this repository .
 | class26 |            Android Fundamentals            | [link](https://hamzhfreajat.github.io/reading-notes/java401/class26) |
 | class27 | Intents, Activities, and SharedPreferences | [link](https://hamzhfreajat.github.io/reading-notes/java401/class27) |
 | class28 |                RecyclerView                | [link](https://hamzhfreajat.github.io/reading-notes/java401/class28) |
+| class28 |                    Room                    | [link](https://hamzhfreajat.github.io/reading-notes/java401/class29) |
 
 
 
